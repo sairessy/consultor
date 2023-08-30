@@ -1,4 +1,5 @@
-export const api_url = 'http://localhost:8000';
+// export const api_url = 'http://localhost:8000';
+export const api_url = 'https://api.sairessevictori.repl.co';
 
 export const courses = [
   { id: 0, label: "Contabilidade" },
